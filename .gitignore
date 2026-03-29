@@ -11,6 +11,22 @@ env/
 # Jupyter artifacts
 .ipynb_checkpoints/
 
+# Generated pipeline outputs
+char_bbox_outputs/
+redacted_char_outputs/
+overlays/
+
+# Generated analysis images
+char_bboxes_visualization.png
+glyph_bank_atlas.png
+kellen_comparison.png
+page_full.png
+contact_line_native_clean.png
+contact_line_native_ms_red.png
+contact_line_native_ms_red_overlay.png
+section_1250_check.png
+target_sentence.png
+
 # OS/editor noise
 .DS_Store
 Thumbs.db
