@@ -1,0 +1,2529 @@
+Total characters: 421
+================================================================================
+
+[   0] char: 'D'
+       bbox: (  79.99,   38.39,   89.44,   54.37)
+       origin: (  79.99,   51.00)
+       font: Times-Roman, size: 12.5pt
+       block: 0, line: 0, span: 0
+
+[   1] char: 'a'
+       bbox: (  89.44,   38.39,   95.24,   54.37)
+       origin: (  89.44,   51.00)
+       font: Times-Roman, size: 12.5pt
+       block: 0, line: 0, span: 0
+
+[   2] char: 't'
+       bbox: (  95.24,   38.39,   98.88,   54.37)
+       origin: (  95.24,   51.00)
+       font: Times-Roman, size: 12.5pt
+       block: 0, line: 0, span: 0
+
+[   3] char: 'e'
+       bbox: (  98.88,   38.39,  104.69,   54.37)
+       origin: (  98.88,   51.00)
+       font: Times-Roman, size: 12.5pt
+       block: 0, line: 0, span: 0
+
+[   4] char: ':'
+       bbox: ( 104.69,   38.39,  108.33,   54.37)
+       origin: ( 104.69,   51.00)
+       font: Times-Roman, size: 12.5pt
+       block: 0, line: 0, span: 0
+
+[   5] char: ' '
+       bbox: ( 108.33,   38.39,  111.60,   54.37)
+       origin: ( 108.33,   51.00)
+       font: Times-Roman, size: 12.5pt
+       block: 0, line: 0, span: 0
+
+[   6] char: 'T'
+       bbox: ( 110.40,   38.39,  117.91,   54.37)
+       origin: ( 110.40,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 1
+
+[   7] char: 'u'
+       bbox: ( 117.91,   38.39,  124.06,   54.37)
+       origin: ( 117.91,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 1
+
+[   8] char: 'e'
+       bbox: ( 124.06,   38.39,  129.51,   54.37)
+       origin: ( 124.06,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 1
+
+[   9] char: ','
+       bbox: ( 129.51,   38.39,  132.59,   54.37)
+       origin: ( 129.51,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 1
+
+[  10] char: ' '
+       bbox: ( 132.59,   38.39,  135.66,   54.37)
+       origin: ( 132.59,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 1
+
+[  11] char: '0'
+       bbox: ( 135.08,   38.39,  141.29,   54.37)
+       origin: ( 135.08,   51.00)
+       font: Times-Roman, size: 12.2pt
+       block: 0, line: 0, span: 2
+
+[  12] char: '9'
+       bbox: ( 141.29,   38.39,  147.50,   54.37)
+       origin: ( 141.29,   51.00)
+       font: Times-Roman, size: 12.2pt
+       block: 0, line: 0, span: 2
+
+[  13] char: ' '
+       bbox: ( 147.50,   38.39,  150.60,   54.37)
+       origin: ( 147.50,   51.00)
+       font: Times-Roman, size: 12.2pt
+       block: 0, line: 0, span: 2
+
+[  14] char: 'J'
+       bbox: ( 149.88,   38.39,  154.49,   54.37)
+       origin: ( 149.88,   51.00)
+       font: Times-Roman, size: 11.9pt
+       block: 0, line: 0, span: 3
+
+[  15] char: 'u'
+       bbox: ( 154.49,   38.39,  160.43,   54.37)
+       origin: ( 154.49,   51.00)
+       font: Times-Roman, size: 11.9pt
+       block: 0, line: 0, span: 3
+
+[  16] char: 'l'
+       bbox: ( 160.43,   38.39,  163.72,   54.37)
+       origin: ( 160.43,   51.00)
+       font: Times-Roman, size: 11.9pt
+       block: 0, line: 0, span: 3
+
+[  17] char: ' '
+       bbox: ( 163.72,   38.39,  166.69,   54.37)
+       origin: ( 163.72,   51.00)
+       font: Times-Roman, size: 11.9pt
+       block: 0, line: 0, span: 3
+
+[  18] char: '2'
+       bbox: ( 166.88,   38.39,  173.00,   54.37)
+       origin: ( 166.88,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 4
+
+[  19] char: '0'
+       bbox: ( 173.00,   38.39,  179.12,   54.37)
+       origin: ( 173.00,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 4
+
+[  20] char: '1'
+       bbox: ( 179.12,   38.39,  185.24,   54.37)
+       origin: ( 179.12,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 4
+
+[  21] char: '9'
+       bbox: ( 185.24,   38.39,  191.36,   54.37)
+       origin: ( 185.24,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 4
+
+[  22] char: ' '
+       bbox: ( 191.36,   38.39,  194.42,   54.37)
+       origin: ( 191.36,   51.00)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 0, span: 4
+
+[  23] char: '1'
+       bbox: ( 194.42,   38.39,  200.41,   54.37)
+       origin: ( 194.42,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  24] char: '9'
+       bbox: ( 200.41,   38.39,  206.39,   54.37)
+       origin: ( 200.41,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  25] char: ':'
+       bbox: ( 206.39,   38.39,  209.72,   54.37)
+       origin: ( 206.39,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  26] char: '1'
+       bbox: ( 209.72,   38.39,  215.71,   54.37)
+       origin: ( 209.72,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  27] char: '6'
+       bbox: ( 215.71,   38.39,  221.69,   54.37)
+       origin: ( 215.71,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  28] char: ':'
+       bbox: ( 221.69,   38.39,  225.02,   54.37)
+       origin: ( 221.69,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  29] char: '1'
+       bbox: ( 225.02,   38.39,  231.01,   54.37)
+       origin: ( 225.02,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  30] char: '5'
+       bbox: ( 231.01,   38.39,  236.99,   54.37)
+       origin: ( 231.01,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  31] char: ' '
+       bbox: ( 236.99,   38.39,  239.98,   54.37)
+       origin: ( 236.99,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 5
+
+[  32] char: '+'
+       bbox: ( 239.64,   38.39,  246.47,   54.37)
+       origin: ( 239.64,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 6
+
+[  33] char: '0'
+       bbox: ( 246.47,   38.39,  252.52,   54.37)
+       origin: ( 246.47,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 6
+
+[  34] char: '0'
+       bbox: ( 252.52,   38.39,  258.57,   54.37)
+       origin: ( 252.52,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 6
+
+[  35] char: '0'
+       bbox: ( 258.57,   38.39,  264.62,   54.37)
+       origin: ( 258.57,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 6
+
+[  36] char: '0'
+       bbox: ( 264.62,   38.39,  270.67,   54.37)
+       origin: ( 264.62,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 6
+
+[  37] char: ' '
+       bbox: ( 270.67,   38.39,  273.70,   54.37)
+       origin: ( 270.67,   51.00)
+       font: Times-Roman, size: 12.0pt
+       block: 0, line: 0, span: 6
+
+[  38] char: 'I'
+       bbox: (  44.01,   54.89,   48.44,   70.87)
+       origin: (  44.01,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  39] char: 'm'
+       bbox: (  48.44,   54.89,   58.80,   70.87)
+       origin: (  48.44,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  40] char: 'p'
+       bbox: (  58.80,   54.89,   65.46,   70.87)
+       origin: (  58.80,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  41] char: 'o'
+       bbox: (  65.46,   54.89,   72.11,   70.87)
+       origin: (  65.46,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  42] char: 'r'
+       bbox: (  72.11,   54.89,   76.55,   70.87)
+       origin: (  72.11,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  43] char: 't'
+       bbox: (  76.55,   54.89,   80.25,   70.87)
+       origin: (  76.55,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  44] char: 'a'
+       bbox: (  80.25,   54.89,   86.16,   70.87)
+       origin: (  80.25,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  45] char: 'n'
+       bbox: (  86.16,   54.89,   92.82,   70.87)
+       origin: (  86.16,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  46] char: 'c'
+       bbox: (  92.82,   54.89,   98.73,   70.87)
+       origin: (  92.82,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  47] char: 'e'
+       bbox: (  98.73,   54.89,  104.64,   70.87)
+       origin: (  98.73,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  48] char: ':'
+       bbox: ( 104.64,   54.89,  108.34,   70.87)
+       origin: ( 104.64,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  49] char: ' '
+       bbox: ( 108.34,   54.89,  111.67,   70.87)
+       origin: ( 108.34,   67.50)
+       font: Times-Roman, size: 12.6pt
+       block: 0, line: 1, span: 0
+
+[  50] char: 'N'
+       bbox: ( 110.48,   54.89,  119.25,   70.87)
+       origin: ( 110.48,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  51] char: 'o'
+       bbox: ( 119.25,   54.89,  125.33,   70.87)
+       origin: ( 119.25,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  52] char: 'r'
+       bbox: ( 125.33,   54.89,  129.38,   70.87)
+       origin: ( 125.33,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  53] char: 'm'
+       bbox: ( 129.38,   54.89,  138.83,   70.87)
+       origin: ( 129.38,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  54] char: 'a'
+       bbox: ( 138.83,   54.89,  144.23,   70.87)
+       origin: ( 138.83,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  55] char: 'l'
+       bbox: ( 144.23,   54.89,  147.61,   70.87)
+       origin: ( 144.23,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  56] char: ' '
+       bbox: ( 147.61,   54.89,  150.64,   70.87)
+       origin: ( 147.61,   67.50)
+       font: Times-Roman, size: 12.1pt
+       block: 0, line: 1, span: 1
+
+[  57] char: 'J'
+       bbox: (  33.25,  115.64,   37.96,  131.62)
+       origin: (  33.25,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 0
+
+[  58] char: 'u'
+       bbox: (  37.96,  115.64,   44.02,  131.62)
+       origin: (  37.96,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 0
+
+[  59] char: 's'
+       bbox: (  44.02,  115.64,   48.74,  131.62)
+       origin: (  44.02,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 0
+
+[  60] char: 't'
+       bbox: (  48.74,  115.64,   52.11,  131.62)
+       origin: (  48.74,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 0
+
+[  61] char: ' '
+       bbox: (  52.11,  115.64,   55.14,  131.62)
+       origin: (  52.11,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 0
+
+[  62] char: 'a'
+       bbox: (  55.05,  115.64,   60.43,  131.62)
+       origin: (  55.05,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 1
+
+[  63] char: 'n'
+       bbox: (  60.43,  115.64,   66.49,  131.62)
+       origin: (  60.43,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 1
+
+[  64] char: ' '
+       bbox: (  66.49,  115.64,   69.53,  131.62)
+       origin: (  66.49,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 1
+
+[  65] char: 'F'
+       bbox: (  69.61,  115.64,   76.32,  131.62)
+       origin: (  69.61,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 2
+
+[  66] char: 'Y'
+       bbox: (  76.32,  115.64,   85.04,  131.62)
+       origin: (  76.32,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 2
+
+[  67] char: 'I'
+       bbox: (  85.04,  115.64,   89.07,  131.62)
+       origin: (  85.04,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 2
+
+[  68] char: ','
+       bbox: (  89.07,  115.64,   92.09,  131.62)
+       origin: (  89.07,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 2
+
+[  69] char: ' '
+       bbox: (  92.09,  115.64,   95.10,  131.62)
+       origin: (  92.09,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 2
+
+[  70] char: 'a'
+       bbox: (  94.38,  115.64,  100.33,  131.62)
+       origin: (  94.38,  128.25)
+       font: Times-Roman, size: 12.7pt
+       block: 1, line: 0, span: 3
+
+[  71] char: 's'
+       bbox: ( 100.33,  115.64,  105.55,  131.62)
+       origin: ( 100.33,  128.25)
+       font: Times-Roman, size: 12.7pt
+       block: 1, line: 0, span: 3
+
+[  72] char: ' '
+       bbox: ( 105.55,  115.64,  108.90,  131.62)
+       origin: ( 105.55,  128.25)
+       font: Times-Roman, size: 12.7pt
+       block: 1, line: 0, span: 3
+
+[  73] char: 'a'
+       bbox: ( 107.55,  115.64,  112.89,  131.62)
+       origin: ( 107.55,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 4
+
+[  74] char: ' '
+       bbox: ( 112.89,  115.64,  115.90,  131.62)
+       origin: ( 112.89,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 4
+
+[  75] char: 'r'
+       bbox: ( 116.20,  115.64,  120.20,  131.62)
+       origin: ( 116.20,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  76] char: 'e'
+       bbox: ( 120.20,  115.64,  125.52,  131.62)
+       origin: ( 120.20,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  77] char: 's'
+       bbox: ( 125.52,  115.64,  130.19,  131.62)
+       origin: ( 125.52,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  78] char: 'u'
+       bbox: ( 130.19,  115.64,  136.19,  131.62)
+       origin: ( 130.19,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  79] char: 'l'
+       bbox: ( 136.19,  115.64,  139.53,  131.62)
+       origin: ( 136.19,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  80] char: 't'
+       bbox: ( 139.53,  115.64,  142.86,  131.62)
+       origin: ( 139.53,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  81] char: ' '
+       bbox: ( 142.86,  115.64,  145.86,  131.62)
+       origin: ( 142.86,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 5
+
+[  82] char: 'o'
+       bbox: ( 145.47,  115.64,  152.28,  131.62)
+       origin: ( 145.47,  128.25)
+       font: Times-Roman, size: 12.8pt
+       block: 1, line: 0, span: 6
+
+[  83] char: 'f'
+       bbox: ( 152.28,  115.64,  156.82,  131.62)
+       origin: ( 152.28,  128.25)
+       font: Times-Roman, size: 12.8pt
+       block: 1, line: 0, span: 6
+
+[  84] char: ' '
+       bbox: ( 156.82,  115.64,  160.23,  131.62)
+       origin: ( 156.82,  128.25)
+       font: Times-Roman, size: 12.8pt
+       block: 1, line: 0, span: 6
+
+[  85] char: 't'
+       bbox: ( 158.84,  115.64,  162.18,  131.62)
+       origin: ( 158.84,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 7
+
+[  86] char: 'h'
+       bbox: ( 162.18,  115.64,  168.19,  131.62)
+       origin: ( 162.18,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 7
+
+[  87] char: 'e'
+       bbox: ( 168.19,  115.64,  173.52,  131.62)
+       origin: ( 168.19,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 7
+
+[  88] char: ' '
+       bbox: ( 173.52,  115.64,  176.53,  131.62)
+       origin: ( 173.52,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 7
+
+[  89] char: 'E'
+       bbox: ( 176.86,  115.64,  184.17,  131.62)
+       origin: ( 176.86,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  90] char: 'p'
+       bbox: ( 184.17,  115.64,  190.15,  131.62)
+       origin: ( 184.17,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  91] char: 's'
+       bbox: ( 190.15,  115.64,  194.80,  131.62)
+       origin: ( 190.15,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  92] char: 't'
+       bbox: ( 194.80,  115.64,  198.13,  131.62)
+       origin: ( 194.80,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  93] char: 'e'
+       bbox: ( 198.13,  115.64,  203.44,  131.62)
+       origin: ( 198.13,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  94] char: 'i'
+       bbox: ( 203.44,  115.64,  206.77,  131.62)
+       origin: ( 203.44,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  95] char: 'n'
+       bbox: ( 206.77,  115.64,  212.75,  131.62)
+       origin: ( 206.77,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  96] char: ' '
+       bbox: ( 212.75,  115.64,  215.74,  131.62)
+       origin: ( 212.75,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 8
+
+[  97] char: 'a'
+       bbox: ( 215.17,  115.64,  220.58,  131.62)
+       origin: ( 215.17,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[  98] char: 'r'
+       bbox: ( 220.58,  115.64,  224.64,  131.62)
+       origin: ( 220.58,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[  99] char: 'r'
+       bbox: ( 224.64,  115.64,  228.70,  131.62)
+       origin: ( 224.64,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[ 100] char: 'e'
+       bbox: ( 228.70,  115.64,  234.11,  131.62)
+       origin: ( 228.70,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[ 101] char: 's'
+       bbox: ( 234.11,  115.64,  238.85,  131.62)
+       origin: ( 234.11,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[ 102] char: 't'
+       bbox: ( 238.85,  115.64,  242.24,  131.62)
+       origin: ( 238.85,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[ 103] char: ' '
+       bbox: ( 242.24,  115.64,  245.28,  131.62)
+       origin: ( 242.24,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 9
+
+[ 104] char: 'a'
+       bbox: ( 245.18,  115.64,  250.54,  131.62)
+       origin: ( 245.18,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 10
+
+[ 105] char: 'n'
+       bbox: ( 250.54,  115.64,  256.58,  131.62)
+       origin: ( 250.54,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 10
+
+[ 106] char: 'd'
+       bbox: ( 256.58,  115.64,  262.61,  131.62)
+       origin: ( 256.58,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 10
+
+[ 107] char: ' '
+       bbox: ( 262.61,  115.64,  265.63,  131.62)
+       origin: ( 262.61,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 10
+
+[ 108] char: 'i'
+       bbox: ( 265.61,  115.64,  268.95,  131.62)
+       origin: ( 265.61,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 109] char: 'n'
+       bbox: ( 268.95,  115.64,  274.97,  131.62)
+       origin: ( 268.95,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 110] char: 'd'
+       bbox: ( 274.97,  115.64,  280.98,  131.62)
+       origin: ( 274.97,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 111] char: 'i'
+       bbox: ( 280.98,  115.64,  284.33,  131.62)
+       origin: ( 280.98,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 112] char: 'c'
+       bbox: ( 284.33,  115.64,  289.67,  131.62)
+       origin: ( 284.33,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 113] char: 't'
+       bbox: ( 289.67,  115.64,  293.01,  131.62)
+       origin: ( 289.67,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 114] char: 'm'
+       bbox: ( 293.01,  115.64,  302.37,  131.62)
+       origin: ( 293.01,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 115] char: 'e'
+       bbox: ( 302.37,  115.64,  307.71,  131.62)
+       origin: ( 302.37,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 116] char: 'n'
+       bbox: ( 307.71,  115.64,  313.73,  131.62)
+       origin: ( 307.71,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 117] char: 't'
+       bbox: ( 313.73,  115.64,  317.07,  131.62)
+       origin: ( 313.73,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 118] char: ','
+       bbox: ( 317.07,  115.64,  320.08,  131.62)
+       origin: ( 317.07,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 119] char: ' '
+       bbox: ( 320.08,  115.64,  323.09,  131.62)
+       origin: ( 320.08,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 11
+
+[ 120] char: 'w'
+       bbox: ( 322.62,  115.64,  331.55,  131.62)
+       origin: ( 322.62,  128.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 0, span: 12
+
+[ 121] char: 'e'
+       bbox: ( 331.55,  115.64,  337.04,  131.62)
+       origin: ( 331.55,  128.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 0, span: 12
+
+[ 122] char: ' '
+       bbox: ( 337.04,  115.64,  340.13,  131.62)
+       origin: ( 337.04,  128.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 0, span: 12
+
+[ 123] char: 'w'
+       bbox: ( 339.88,  115.64,  348.45,  131.62)
+       origin: ( 339.88,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 13
+
+[ 124] char: 'i'
+       bbox: ( 348.45,  115.64,  351.75,  131.62)
+       origin: ( 348.45,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 13
+
+[ 125] char: 'l'
+       bbox: ( 351.75,  115.64,  355.05,  131.62)
+       origin: ( 351.75,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 13
+
+[ 126] char: 'l'
+       bbox: ( 355.05,  115.64,  358.36,  131.62)
+       origin: ( 355.05,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 13
+
+[ 127] char: ' '
+       bbox: ( 358.36,  115.64,  361.32,  131.62)
+       origin: ( 358.36,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 13
+
+[ 128] char: 'b'
+       bbox: ( 361.39,  115.64,  367.56,  131.62)
+       origin: ( 361.39,  128.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 0, span: 14
+
+[ 129] char: 'e'
+       bbox: ( 367.56,  115.64,  373.04,  131.62)
+       origin: ( 367.56,  128.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 0, span: 14
+
+[ 130] char: ' '
+       bbox: ( 373.04,  115.64,  376.12,  131.62)
+       origin: ( 373.04,  128.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 0, span: 14
+
+[ 131] char: 't'
+       bbox: ( 375.97,  115.64,  379.32,  131.62)
+       origin: ( 375.97,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 132] char: 'r'
+       bbox: ( 379.32,  115.64,  383.34,  131.62)
+       origin: ( 379.32,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 133] char: 'a'
+       bbox: ( 383.34,  115.64,  388.70,  131.62)
+       origin: ( 383.34,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 134] char: 'v'
+       bbox: ( 388.70,  115.64,  394.73,  131.62)
+       origin: ( 388.70,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 135] char: 'e'
+       bbox: ( 394.73,  115.64,  400.09,  131.62)
+       origin: ( 394.73,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 136] char: 'l'
+       bbox: ( 400.09,  115.64,  403.44,  131.62)
+       origin: ( 400.09,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 137] char: 'i'
+       bbox: ( 403.44,  115.64,  406.80,  131.62)
+       origin: ( 403.44,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 138] char: 'n'
+       bbox: ( 406.80,  115.64,  412.83,  131.62)
+       origin: ( 406.80,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 139] char: 'g'
+       bbox: ( 412.83,  115.64,  418.87,  131.62)
+       origin: ( 412.83,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 140] char: ' '
+       bbox: ( 418.87,  115.64,  421.88,  131.62)
+       origin: ( 418.87,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 15
+
+[ 141] char: 't'
+       bbox: ( 421.34,  115.64,  424.74,  131.62)
+       origin: ( 421.34,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 16
+
+[ 142] char: 'o'
+       bbox: ( 424.74,  115.64,  430.87,  131.62)
+       origin: ( 424.74,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 16
+
+[ 143] char: ' '
+       bbox: ( 430.87,  115.64,  433.93,  131.62)
+       origin: ( 430.87,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 16
+
+[ 144] char: 'F'
+       bbox: ( 434.11,  115.64,  440.71,  131.62)
+       origin: ( 434.11,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 145] char: 'l'
+       bbox: ( 440.71,  115.64,  444.01,  131.62)
+       origin: ( 440.71,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 146] char: 'o'
+       bbox: ( 444.01,  115.64,  449.94,  131.62)
+       origin: ( 444.01,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 147] char: 'r'
+       bbox: ( 449.94,  115.64,  453.90,  131.62)
+       origin: ( 449.94,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 148] char: 'i'
+       bbox: ( 453.90,  115.64,  457.20,  131.62)
+       origin: ( 453.90,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 149] char: 'd'
+       bbox: ( 457.20,  115.64,  463.13,  131.62)
+       origin: ( 457.20,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 150] char: 'a'
+       bbox: ( 463.13,  115.64,  468.40,  131.62)
+       origin: ( 463.13,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 151] char: ' '
+       bbox: ( 468.40,  115.64,  471.37,  131.62)
+       origin: ( 468.40,  128.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 0, span: 17
+
+[ 152] char: 't'
+       bbox: ( 471.59,  115.64,  474.99,  131.62)
+       origin: ( 471.59,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 18
+
+[ 153] char: 'o'
+       bbox: ( 474.99,  115.64,  481.12,  131.62)
+       origin: ( 474.99,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 18
+
+[ 154] char: ' '
+       bbox: ( 481.12,  115.64,  484.18,  131.62)
+       origin: ( 481.12,  128.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 0, span: 18
+
+[ 155] char: 'i'
+       bbox: ( 484.24,  115.64,  487.57,  131.62)
+       origin: ( 484.24,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 156] char: 'n'
+       bbox: ( 487.57,  115.64,  493.56,  131.62)
+       origin: ( 487.57,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 157] char: 't'
+       bbox: ( 493.56,  115.64,  496.88,  131.62)
+       origin: ( 493.56,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 158] char: 'e'
+       bbox: ( 496.88,  115.64,  502.20,  131.62)
+       origin: ( 496.88,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 159] char: 'r'
+       bbox: ( 502.20,  115.64,  506.19,  131.62)
+       origin: ( 502.20,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 160] char: 'v'
+       bbox: ( 506.19,  115.64,  512.18,  131.62)
+       origin: ( 506.19,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 161] char: 'i'
+       bbox: ( 512.18,  115.64,  515.50,  131.62)
+       origin: ( 512.18,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 162] char: 'e'
+       bbox: ( 515.50,  115.64,  520.82,  131.62)
+       origin: ( 515.50,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 163] char: 'w'
+       bbox: ( 520.82,  115.64,  529.47,  131.62)
+       origin: ( 520.82,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 164] char: ' '
+       bbox: ( 529.47,  115.64,  532.46,  131.62)
+       origin: ( 529.47,  128.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 0, span: 19
+
+[ 165] char: 'a'
+       bbox: (  33.30,  129.14,   38.66,  145.12)
+       origin: (  33.30,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 166] char: 'p'
+       bbox: (  38.66,  129.14,   44.70,  145.12)
+       origin: (  38.66,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 167] char: 'p'
+       bbox: (  44.70,  129.14,   50.73,  145.12)
+       origin: (  44.70,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 168] char: 'r'
+       bbox: (  50.73,  129.14,   54.75,  145.12)
+       origin: (  50.73,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 169] char: 'o'
+       bbox: (  54.75,  129.14,   60.79,  145.12)
+       origin: (  54.75,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 170] char: 'x'
+       bbox: (  60.79,  129.14,   66.82,  145.12)
+       origin: (  60.79,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 171] char: 'i'
+       bbox: (  66.82,  129.14,   70.18,  145.12)
+       origin: (  66.82,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 172] char: 'm'
+       bbox: (  70.18,  129.14,   79.57,  145.12)
+       origin: (  70.18,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 173] char: 'a'
+       bbox: (  79.57,  129.14,   84.93,  145.12)
+       origin: (  79.57,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 174] char: 't'
+       bbox: (  84.93,  129.14,   88.28,  145.12)
+       origin: (  84.93,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 175] char: 'e'
+       bbox: (  88.28,  129.14,   93.64,  145.12)
+       origin: (  88.28,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 176] char: 'l'
+       bbox: (  93.64,  129.14,   97.00,  145.12)
+       origin: (  93.64,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 177] char: 'y'
+       bbox: (  97.00,  129.14,  103.03,  145.12)
+       origin: (  97.00,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 178] char: ' '
+       bbox: ( 103.03,  129.14,  106.05,  145.12)
+       origin: ( 103.03,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 0
+
+[ 179] char: '2'
+       bbox: ( 105.75,  129.14,  111.94,  145.12)
+       origin: ( 105.75,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 1
+
+[ 180] char: '5'
+       bbox: ( 111.94,  129.14,  118.14,  145.12)
+       origin: ( 111.94,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 1
+
+[ 181] char: ' '
+       bbox: ( 118.14,  129.14,  121.24,  145.12)
+       origin: ( 118.14,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 1
+
+[ 182] char: 'v'
+       bbox: ( 121.00,  129.14,  127.01,  145.12)
+       origin: ( 121.00,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 183] char: 'i'
+       bbox: ( 127.01,  129.14,  130.36,  145.12)
+       origin: ( 127.01,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 184] char: 'c'
+       bbox: ( 130.36,  129.14,  135.70,  145.12)
+       origin: ( 130.36,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 185] char: 't'
+       bbox: ( 135.70,  129.14,  139.04,  145.12)
+       origin: ( 135.70,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 186] char: 'i'
+       bbox: ( 139.04,  129.14,  142.38,  145.12)
+       origin: ( 139.04,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 187] char: 'm'
+       bbox: ( 142.38,  129.14,  151.74,  145.12)
+       origin: ( 142.38,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 188] char: 's'
+       bbox: ( 151.74,  129.14,  156.42,  145.12)
+       origin: ( 151.74,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 189] char: '.'
+       bbox: ( 156.42,  129.14,  159.43,  145.12)
+       origin: ( 156.42,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 190] char: ' '
+       bbox: ( 159.43,  129.14,  162.43,  145.12)
+       origin: ( 159.43,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 2
+
+[ 191] char: 'M'
+       bbox: ( 162.15,  129.14,  172.78,  145.12)
+       origin: ( 162.15,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 3
+
+[ 192] char: 'o'
+       bbox: ( 172.78,  129.14,  178.76,  145.12)
+       origin: ( 172.78,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 3
+
+[ 193] char: 's'
+       bbox: ( 178.76,  129.14,  183.42,  145.12)
+       origin: ( 178.76,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 3
+
+[ 194] char: 't'
+       bbox: ( 183.42,  129.14,  186.74,  145.12)
+       origin: ( 183.42,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 3
+
+[ 195] char: ' '
+       bbox: ( 186.74,  129.14,  189.73,  145.12)
+       origin: ( 186.74,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 3
+
+[ 196] char: 'o'
+       bbox: ( 189.73,  129.14,  196.32,  145.12)
+       origin: ( 189.73,  141.75)
+       font: Times-Roman, size: 12.6pt
+       block: 1, line: 1, span: 4
+
+[ 197] char: 'f'
+       bbox: ( 196.32,  129.14,  200.72,  145.12)
+       origin: ( 196.32,  141.75)
+       font: Times-Roman, size: 12.6pt
+       block: 1, line: 1, span: 4
+
+[ 198] char: ' '
+       bbox: ( 200.72,  129.14,  204.01,  145.12)
+       origin: ( 200.72,  141.75)
+       font: Times-Roman, size: 12.6pt
+       block: 1, line: 1, span: 4
+
+[ 199] char: 't'
+       bbox: ( 203.09,  129.14,  206.43,  145.12)
+       origin: ( 203.09,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 5
+
+[ 200] char: 'h'
+       bbox: ( 206.43,  129.14,  212.44,  145.12)
+       origin: ( 206.43,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 5
+
+[ 201] char: 'e'
+       bbox: ( 212.44,  129.14,  217.77,  145.12)
+       origin: ( 212.44,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 5
+
+[ 202] char: ' '
+       bbox: ( 217.77,  129.14,  220.78,  145.12)
+       origin: ( 217.77,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 5
+
+[ 203] char: 'v'
+       bbox: ( 220.75,  129.14,  226.78,  145.12)
+       origin: ( 220.75,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 204] char: 'i'
+       bbox: ( 226.78,  129.14,  230.13,  145.12)
+       origin: ( 226.78,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 205] char: 'c'
+       bbox: ( 230.13,  129.14,  235.48,  145.12)
+       origin: ( 230.13,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 206] char: 't'
+       bbox: ( 235.48,  129.14,  238.83,  145.12)
+       origin: ( 235.48,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 207] char: 'i'
+       bbox: ( 238.83,  129.14,  242.18,  145.12)
+       origin: ( 238.83,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 208] char: 'm'
+       bbox: ( 242.18,  129.14,  251.55,  145.12)
+       origin: ( 242.18,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 209] char: 's'
+       bbox: ( 251.55,  129.14,  256.24,  145.12)
+       origin: ( 251.55,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 210] char: ' '
+       bbox: ( 256.24,  129.14,  259.25,  145.12)
+       origin: ( 256.24,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 6
+
+[ 211] char: 'a'
+       bbox: ( 258.67,  129.14,  264.12,  145.12)
+       origin: ( 258.67,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 7
+
+[ 212] char: 'r'
+       bbox: ( 264.12,  129.14,  268.21,  145.12)
+       origin: ( 264.12,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 7
+
+[ 213] char: 'e'
+       bbox: ( 268.21,  129.14,  273.66,  145.12)
+       origin: ( 268.21,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 7
+
+[ 214] char: ' '
+       bbox: ( 273.66,  129.14,  276.73,  145.12)
+       origin: ( 273.66,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 7
+
+[ 215] char: 'i'
+       bbox: ( 276.87,  129.14,  280.08,  145.12)
+       origin: ( 276.87,  141.75)
+       font: Times-Roman, size: 11.8pt
+       block: 1, line: 1, span: 8
+
+[ 216] char: 'n'
+       bbox: ( 280.08,  129.14,  285.87,  145.12)
+       origin: ( 280.08,  141.75)
+       font: Times-Roman, size: 11.8pt
+       block: 1, line: 1, span: 8
+
+[ 217] char: ' '
+       bbox: ( 285.87,  129.14,  288.76,  145.12)
+       origin: ( 285.87,  141.75)
+       font: Times-Roman, size: 11.8pt
+       block: 1, line: 1, span: 8
+
+[ 218] char: 't'
+       bbox: ( 288.96,  129.14,  292.39,  145.12)
+       origin: ( 288.96,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 9
+
+[ 219] char: 'h'
+       bbox: ( 292.39,  129.14,  298.55,  145.12)
+       origin: ( 292.39,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 9
+
+[ 220] char: 'e'
+       bbox: ( 298.55,  129.14,  304.03,  145.12)
+       origin: ( 298.55,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 9
+
+[ 221] char: ' '
+       bbox: ( 304.03,  129.14,  307.11,  145.12)
+       origin: ( 304.03,  141.75)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 1, span: 9
+
+[ 222] char: 'M'
+       bbox: ( 306.53,  129.14,  317.04,  145.12)
+       origin: ( 306.53,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 223] char: 'i'
+       bbox: ( 317.04,  129.14,  320.32,  145.12)
+       origin: ( 317.04,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 224] char: 'a'
+       bbox: ( 320.32,  129.14,  325.57,  145.12)
+       origin: ( 320.32,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 225] char: 'm'
+       bbox: ( 325.57,  129.14,  334.76,  145.12)
+       origin: ( 325.57,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 226] char: 'i'
+       bbox: ( 334.76,  129.14,  338.05,  145.12)
+       origin: ( 334.76,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 227] char: '/'
+       bbox: ( 338.05,  129.14,  341.33,  145.12)
+       origin: ( 338.05,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 228] char: 'W'
+       bbox: ( 341.33,  129.14,  352.49,  145.12)
+       origin: ( 341.33,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 229] char: 'e'
+       bbox: ( 352.49,  129.14,  357.74,  145.12)
+       origin: ( 352.49,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 230] char: 's'
+       bbox: ( 357.74,  129.14,  362.34,  145.12)
+       origin: ( 357.74,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 231] char: 't'
+       bbox: ( 362.34,  129.14,  365.62,  145.12)
+       origin: ( 362.34,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 232] char: ' '
+       bbox: ( 365.62,  129.14,  368.58,  145.12)
+       origin: ( 365.62,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 10
+
+[ 233] char: 'P'
+       bbox: ( 368.87,  129.14,  375.54,  145.12)
+       origin: ( 368.87,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 11
+
+[ 234] char: 'a'
+       bbox: ( 375.54,  129.14,  380.87,  145.12)
+       origin: ( 375.54,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 11
+
+[ 235] char: 'l'
+       bbox: ( 380.87,  129.14,  384.21,  145.12)
+       origin: ( 380.87,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 11
+
+[ 236] char: 'm'
+       bbox: ( 384.21,  129.14,  393.55,  145.12)
+       origin: ( 384.21,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 11
+
+[ 237] char: ' '
+       bbox: ( 393.55,  129.14,  396.55,  145.12)
+       origin: ( 393.55,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 11
+
+[ 238] char: 'B'
+       bbox: ( 396.51,  129.14,  404.41,  145.12)
+       origin: ( 396.51,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 12
+
+[ 239] char: 'e'
+       bbox: ( 404.41,  129.14,  409.67,  145.12)
+       origin: ( 404.41,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 12
+
+[ 240] char: 'a'
+       bbox: ( 409.67,  129.14,  414.93,  145.12)
+       origin: ( 409.67,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 12
+
+[ 241] char: 'c'
+       bbox: ( 414.93,  129.14,  420.19,  145.12)
+       origin: ( 414.93,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 12
+
+[ 242] char: 'h'
+       bbox: ( 420.19,  129.14,  426.12,  145.12)
+       origin: ( 420.19,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 12
+
+[ 243] char: ' '
+       bbox: ( 426.12,  129.14,  429.08,  145.12)
+       origin: ( 426.12,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 12
+
+[ 244] char: 'a'
+       bbox: ( 428.92,  129.14,  434.38,  145.12)
+       origin: ( 428.92,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 13
+
+[ 245] char: 'r'
+       bbox: ( 434.38,  129.14,  438.47,  145.12)
+       origin: ( 434.38,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 13
+
+[ 246] char: 'e'
+       bbox: ( 438.47,  129.14,  443.93,  145.12)
+       origin: ( 438.47,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 13
+
+[ 247] char: 'a'
+       bbox: ( 443.93,  129.14,  449.39,  145.12)
+       origin: ( 443.93,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 13
+
+[ 248] char: ','
+       bbox: ( 449.39,  129.14,  452.47,  145.12)
+       origin: ( 449.39,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 13
+
+[ 249] char: ' '
+       bbox: ( 452.47,  129.14,  455.54,  145.12)
+       origin: ( 452.47,  141.75)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 1, span: 13
+
+[ 250] char: 'h'
+       bbox: ( 455.14,  129.14,  461.12,  145.12)
+       origin: ( 455.14,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 251] char: 'o'
+       bbox: ( 461.12,  129.14,  467.10,  145.12)
+       origin: ( 461.12,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 252] char: 'w'
+       bbox: ( 467.10,  129.14,  475.74,  145.12)
+       origin: ( 467.10,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 253] char: 'e'
+       bbox: ( 475.74,  129.14,  481.05,  145.12)
+       origin: ( 475.74,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 254] char: 'v'
+       bbox: ( 481.05,  129.14,  487.04,  145.12)
+       origin: ( 481.05,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 255] char: 'e'
+       bbox: ( 487.04,  129.14,  492.35,  145.12)
+       origin: ( 487.04,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 256] char: 'r'
+       bbox: ( 492.35,  129.14,  496.33,  145.12)
+       origin: ( 492.35,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 257] char: ','
+       bbox: ( 496.33,  129.14,  499.32,  145.12)
+       origin: ( 496.33,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 258] char: ' '
+       bbox: ( 499.32,  129.14,  502.32,  145.12)
+       origin: ( 499.32,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 14
+
+[ 259] char: 't'
+       bbox: ( 502.35,  129.14,  505.64,  145.12)
+       origin: ( 502.35,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 15
+
+[ 260] char: 'w'
+       bbox: ( 505.64,  129.14,  514.19,  145.12)
+       origin: ( 505.64,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 15
+
+[ 261] char: 'o'
+       bbox: ( 514.19,  129.14,  520.11,  145.12)
+       origin: ( 514.19,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 15
+
+[ 262] char: ' '
+       bbox: ( 520.11,  129.14,  523.07,  145.12)
+       origin: ( 520.11,  141.75)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 1, span: 15
+
+[ 263] char: 'v'
+       bbox: ( 523.38,  129.14,  529.34,  145.12)
+       origin: ( 523.38,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 264] char: 'i'
+       bbox: ( 529.34,  129.14,  532.65,  145.12)
+       origin: ( 529.34,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 265] char: 'c'
+       bbox: ( 532.65,  129.14,  537.95,  145.12)
+       origin: ( 532.65,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 266] char: 't'
+       bbox: ( 537.95,  129.14,  541.26,  145.12)
+       origin: ( 537.95,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 267] char: 'i'
+       bbox: ( 541.26,  129.14,  544.58,  145.12)
+       origin: ( 541.26,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 268] char: 'm'
+       bbox: ( 544.58,  129.14,  553.85,  145.12)
+       origin: ( 544.58,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 269] char: 's'
+       bbox: ( 553.85,  129.14,  558.49,  145.12)
+       origin: ( 553.85,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 270] char: ' '
+       bbox: ( 558.49,  129.14,  561.47,  145.12)
+       origin: ( 558.49,  141.75)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 1, span: 16
+
+[ 271] char: 'a'
+       bbox: ( 560.91,  129.14,  566.50,  145.12)
+       origin: ( 560.91,  141.75)
+       font: Times-Roman, size: 12.3pt
+       block: 1, line: 1, span: 17
+
+[ 272] char: 'r'
+       bbox: ( 566.50,  129.14,  570.70,  145.12)
+       origin: ( 566.50,  141.75)
+       font: Times-Roman, size: 12.3pt
+       block: 1, line: 1, span: 17
+
+[ 273] char: 'e'
+       bbox: ( 570.70,  129.14,  576.29,  145.12)
+       origin: ( 570.70,  141.75)
+       font: Times-Roman, size: 12.3pt
+       block: 1, line: 1, span: 17
+
+[ 274] char: ' '
+       bbox: ( 576.29,  129.14,  579.44,  145.12)
+       origin: ( 576.29,  141.75)
+       font: Times-Roman, size: 12.3pt
+       block: 1, line: 1, span: 17
+
+[ 275] char: 'b'
+       bbox: (  33.64,  142.64,   39.65,  158.62)
+       origin: (  33.64,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 276] char: 'e'
+       bbox: (  39.65,  142.64,   44.99,  158.62)
+       origin: (  39.65,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 277] char: 'l'
+       bbox: (  44.99,  142.64,   48.33,  158.62)
+       origin: (  44.99,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 278] char: 'i'
+       bbox: (  48.33,  142.64,   51.67,  158.62)
+       origin: (  48.33,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 279] char: 'e'
+       bbox: (  51.67,  142.64,   57.00,  158.62)
+       origin: (  51.67,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 280] char: 'v'
+       bbox: (  57.00,  142.64,   63.01,  158.62)
+       origin: (  57.00,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 281] char: 'e'
+       bbox: (  63.01,  142.64,   68.35,  158.62)
+       origin: (  63.01,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 282] char: 'd'
+       bbox: (  68.35,  142.64,   74.36,  158.62)
+       origin: (  68.35,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 283] char: ' '
+       bbox: (  74.36,  142.64,   77.36,  158.62)
+       origin: (  74.36,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 0
+
+[ 284] char: 't'
+       bbox: (  77.09,  142.64,   80.49,  158.62)
+       origin: (  77.09,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 1
+
+[ 285] char: 'o'
+       bbox: (  80.49,  142.64,   86.62,  158.62)
+       origin: (  80.49,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 1
+
+[ 286] char: ' '
+       bbox: (  86.62,  142.64,   89.68,  158.62)
+       origin: (  86.62,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 1
+
+[ 287] char: 'b'
+       bbox: (  89.51,  142.64,   95.68,  158.62)
+       origin: (  89.51,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 2
+
+[ 288] char: 'e'
+       bbox: (  95.68,  142.64,  101.15,  158.62)
+       origin: (  95.68,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 2
+
+[ 289] char: ' '
+       bbox: ( 101.15,  142.64,  104.24,  158.62)
+       origin: ( 101.15,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 2
+
+[ 290] char: 'i'
+       bbox: ( 103.98,  142.64,  107.33,  158.62)
+       origin: ( 103.98,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 3
+
+[ 291] char: 'n'
+       bbox: ( 107.33,  142.64,  113.37,  158.62)
+       origin: ( 107.33,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 3
+
+[ 292] char: ' '
+       bbox: ( 113.37,  142.64,  116.38,  158.62)
+       origin: ( 113.37,  155.25)
+       font: Times-Roman, size: 12.0pt
+       block: 1, line: 2, span: 3
+
+[ 293] char: 'W'
+       bbox: ( 116.14,  142.64,  127.39,  158.62)
+       origin: ( 116.14,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 294] char: 'i'
+       bbox: ( 127.39,  142.64,  130.70,  158.62)
+       origin: ( 127.39,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 295] char: 'n'
+       bbox: ( 130.70,  142.64,  136.66,  158.62)
+       origin: ( 130.70,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 296] char: 't'
+       bbox: ( 136.66,  142.64,  139.97,  158.62)
+       origin: ( 136.66,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 297] char: 'e'
+       bbox: ( 139.97,  142.64,  145.26,  158.62)
+       origin: ( 139.97,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 298] char: 'r'
+       bbox: ( 145.26,  142.64,  149.23,  158.62)
+       origin: ( 145.26,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 299] char: ' '
+       bbox: ( 149.23,  142.64,  152.20,  158.62)
+       origin: ( 149.23,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 4
+
+[ 300] char: 'G'
+       bbox: ( 151.55,  142.64,  160.34,  158.62)
+       origin: ( 151.55,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 301] char: 'a'
+       bbox: ( 160.34,  142.64,  165.75,  158.62)
+       origin: ( 160.34,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 302] char: 'r'
+       bbox: ( 165.75,  142.64,  169.81,  158.62)
+       origin: ( 165.75,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 303] char: 'd'
+       bbox: ( 169.81,  142.64,  175.90,  158.62)
+       origin: ( 169.81,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 304] char: 'e'
+       bbox: ( 175.90,  142.64,  181.30,  158.62)
+       origin: ( 175.90,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 305] char: 'n'
+       bbox: ( 181.30,  142.64,  187.39,  158.62)
+       origin: ( 181.30,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 306] char: 's'
+       bbox: ( 187.39,  142.64,  192.13,  158.62)
+       origin: ( 187.39,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 307] char: ' '
+       bbox: ( 192.13,  142.64,  195.17,  158.62)
+       origin: ( 192.13,  155.25)
+       font: Times-Roman, size: 12.1pt
+       block: 1, line: 2, span: 5
+
+[ 308] char: 'a'
+       bbox: ( 194.54,  142.64,  200.02,  158.62)
+       origin: ( 194.54,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 6
+
+[ 309] char: 'n'
+       bbox: ( 200.02,  142.64,  206.19,  158.62)
+       origin: ( 200.02,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 6
+
+[ 310] char: 'd'
+       bbox: ( 206.19,  142.64,  212.36,  158.62)
+       origin: ( 206.19,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 6
+
+[ 311] char: ' '
+       bbox: ( 212.36,  142.64,  215.44,  158.62)
+       origin: ( 212.36,  155.25)
+       font: Times-Roman, size: 12.2pt
+       block: 1, line: 2, span: 6
+
+[ 312] char: 'P'
+       bbox: ( 215.50,  142.64,  222.07,  158.62)
+       origin: ( 215.50,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 7
+
+[ 313] char: 'a'
+       bbox: ( 222.07,  142.64,  227.32,  158.62)
+       origin: ( 222.07,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 7
+
+[ 314] char: 'l'
+       bbox: ( 227.32,  142.64,  230.60,  158.62)
+       origin: ( 227.32,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 7
+
+[ 315] char: 'm'
+       bbox: ( 230.60,  142.64,  239.80,  158.62)
+       origin: ( 230.60,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 7
+
+[ 316] char: ' '
+       bbox: ( 239.80,  142.64,  242.75,  158.62)
+       origin: ( 239.80,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 7
+
+[ 317] char: 'H'
+       bbox: ( 242.76,  142.64,  251.35,  158.62)
+       origin: ( 242.76,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 318] char: 'a'
+       bbox: ( 251.35,  142.64,  256.63,  158.62)
+       origin: ( 251.35,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 319] char: 'r'
+       bbox: ( 256.63,  142.64,  260.59,  158.62)
+       origin: ( 256.63,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 320] char: 'b'
+       bbox: ( 260.59,  142.64,  266.54,  158.62)
+       origin: ( 260.59,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 321] char: 'o'
+       bbox: ( 266.54,  142.64,  272.49,  158.62)
+       origin: ( 266.54,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 322] char: 'r'
+       bbox: ( 272.49,  142.64,  276.45,  158.62)
+       origin: ( 272.49,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 323] char: '.'
+       bbox: ( 276.45,  142.64,  279.42,  158.62)
+       origin: ( 276.45,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 324] char: ' '
+       bbox: ( 279.42,  142.64,  282.39,  158.62)
+       origin: ( 279.42,  155.25)
+       font: Times-Roman, size: 11.9pt
+       block: 1, line: 2, span: 8
+
+[ 325] char: 'S'
+       bbox: (  33.63,  183.14,   40.20,  199.12)
+       origin: (  33.63,  195.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 0, span: 0
+
+[ 326] char: 'S'
+       bbox: (  40.20,  183.14,   46.78,  199.12)
+       origin: (  40.20,  195.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 0, span: 0
+
+[ 327] char: 'A'
+       bbox: (  46.78,  183.14,   55.32,  199.12)
+       origin: (  46.78,  195.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 0, span: 0
+
+[ 328] char: '-'
+       bbox: (  56.86,  183.14,   60.85,  199.12)
+       origin: (  56.86,  195.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 0, span: 1
+
+[ 329] char: 'S'
+       bbox: (  33.62,  196.64,   40.26,  212.62)
+       origin: (  33.62,  209.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 1, span: 0
+
+[ 330] char: 'q'
+       bbox: (  40.26,  196.64,   46.23,  212.62)
+       origin: (  40.26,  209.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 1, span: 0
+
+[ 331] char: 'u'
+       bbox: (  46.23,  196.64,   52.20,  212.62)
+       origin: (  46.23,  209.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 1, span: 0
+
+[ 332] char: 'a'
+       bbox: (  52.20,  196.64,   57.51,  212.62)
+       origin: (  52.20,  209.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 1, span: 0
+
+[ 333] char: 'd'
+       bbox: (  57.51,  196.64,   63.48,  212.62)
+       origin: (  57.51,  209.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 1, span: 0
+
+[ 334] char: ' '
+       bbox: (  63.48,  196.64,   66.47,  212.62)
+       origin: (  63.48,  209.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 1, span: 0
+
+[ 335] char: 'C'
+       bbox: (  66.35,  196.64,   74.46,  212.62)
+       origin: (  66.35,  209.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 1, span: 1
+
+[ 336] char: '-'
+       bbox: (  74.46,  196.64,   78.51,  212.62)
+       origin: (  74.46,  209.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 1, span: 1
+
+[ 337] char: '2'
+       bbox: (  78.51,  196.64,   84.59,  212.62)
+       origin: (  78.51,  209.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 1, span: 1
+
+[ 338] char: '0'
+       bbox: (  84.59,  196.64,   90.67,  212.62)
+       origin: (  84.59,  209.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 1, span: 1
+
+[ 339] char: ' '
+       bbox: (  90.67,  196.64,   93.71,  212.62)
+       origin: (  90.67,  209.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 1, span: 1
+
+[ 340] char: 'C'
+       bbox: (  33.35,  210.14,   41.52,  226.12)
+       origin: (  33.35,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 341] char: 'r'
+       bbox: (  41.52,  210.14,   45.61,  226.12)
+       origin: (  41.52,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 342] char: 'i'
+       bbox: (  45.61,  210.14,   49.01,  226.12)
+       origin: (  45.61,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 343] char: 'm'
+       bbox: (  49.01,  210.14,   58.55,  226.12)
+       origin: (  49.01,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 344] char: 'e'
+       bbox: (  58.55,  210.14,   63.99,  226.12)
+       origin: (  58.55,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 345] char: 's'
+       bbox: (  63.99,  210.14,   68.76,  226.12)
+       origin: (  63.99,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 346] char: ' '
+       bbox: (  68.76,  210.14,   71.82,  226.12)
+       origin: (  68.76,  222.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 2, span: 0
+
+[ 347] char: 'A'
+       bbox: (  70.32,  210.14,   79.06,  226.12)
+       origin: (  70.32,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 348] char: 'g'
+       bbox: (  79.06,  210.14,   85.12,  226.12)
+       origin: (  79.06,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 349] char: 'a'
+       bbox: (  85.12,  210.14,   90.49,  226.12)
+       origin: (  85.12,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 350] char: 'i'
+       bbox: (  90.49,  210.14,   93.86,  226.12)
+       origin: (  90.49,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 351] char: 'n'
+       bbox: (  93.86,  210.14,   99.91,  226.12)
+       origin: (  93.86,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 352] char: 's'
+       bbox: (  99.91,  210.14,  104.62,  226.12)
+       origin: (  99.91,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 353] char: 't'
+       bbox: ( 104.62,  210.14,  107.99,  226.12)
+       origin: ( 104.62,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 354] char: ' '
+       bbox: ( 107.99,  210.14,  111.02,  226.12)
+       origin: ( 107.99,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 1
+
+[ 355] char: 'C'
+       bbox: ( 110.60,  210.14,  118.61,  226.12)
+       origin: ( 110.60,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 356] char: 'h'
+       bbox: ( 118.61,  210.14,  124.62,  226.12)
+       origin: ( 118.61,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 357] char: 'i'
+       bbox: ( 124.62,  210.14,  127.96,  226.12)
+       origin: ( 124.62,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 358] char: 'l'
+       bbox: ( 127.96,  210.14,  131.30,  226.12)
+       origin: ( 127.96,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 359] char: 'd'
+       bbox: ( 131.30,  210.14,  137.31,  226.12)
+       origin: ( 131.30,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 360] char: 'r'
+       bbox: ( 137.31,  210.14,  141.31,  226.12)
+       origin: ( 137.31,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 361] char: 'e'
+       bbox: ( 141.31,  210.14,  146.65,  226.12)
+       origin: ( 141.31,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 362] char: 'n'
+       bbox: ( 146.65,  210.14,  152.66,  226.12)
+       origin: ( 146.65,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 363] char: '/'
+       bbox: ( 152.66,  210.14,  156.00,  226.12)
+       origin: ( 152.66,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 364] char: 'H'
+       bbox: ( 156.00,  210.14,  164.67,  226.12)
+       origin: ( 156.00,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 365] char: 'u'
+       bbox: ( 164.67,  210.14,  170.68,  226.12)
+       origin: ( 164.67,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 366] char: 'm'
+       bbox: ( 170.68,  210.14,  180.03,  226.12)
+       origin: ( 170.68,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 367] char: 'a'
+       bbox: ( 180.03,  210.14,  185.36,  226.12)
+       origin: ( 180.03,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 368] char: 'n'
+       bbox: ( 185.36,  210.14,  191.37,  226.12)
+       origin: ( 185.36,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 369] char: ' '
+       bbox: ( 191.37,  210.14,  194.38,  226.12)
+       origin: ( 191.37,  222.75)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 2, span: 2
+
+[ 370] char: 'T'
+       bbox: ( 194.41,  210.14,  201.68,  226.12)
+       origin: ( 194.41,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 371] char: 'r'
+       bbox: ( 201.68,  210.14,  205.64,  226.12)
+       origin: ( 201.68,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 372] char: 'a'
+       bbox: ( 205.64,  210.14,  210.93,  226.12)
+       origin: ( 205.64,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 373] char: 'f'
+       bbox: ( 210.93,  210.14,  214.89,  226.12)
+       origin: ( 210.93,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 374] char: 'f'
+       bbox: ( 214.89,  210.14,  218.85,  226.12)
+       origin: ( 214.89,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 375] char: 'i'
+       bbox: ( 218.85,  210.14,  222.16,  226.12)
+       origin: ( 218.85,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 376] char: 'c'
+       bbox: ( 222.16,  210.14,  227.45,  226.12)
+       origin: ( 222.16,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 377] char: 'k'
+       bbox: ( 227.45,  210.14,  233.40,  226.12)
+       origin: ( 227.45,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 378] char: 'i'
+       bbox: ( 233.40,  210.14,  236.71,  226.12)
+       origin: ( 233.40,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 379] char: 'n'
+       bbox: ( 236.71,  210.14,  242.66,  226.12)
+       origin: ( 236.71,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 380] char: 'g'
+       bbox: ( 242.66,  210.14,  248.61,  226.12)
+       origin: ( 242.66,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 381] char: ' '
+       bbox: ( 248.61,  210.14,  251.58,  226.12)
+       origin: ( 248.61,  222.75)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 2, span: 3
+
+[ 382] char: 'F'
+       bbox: (  33.61,  223.64,   40.16,  239.62)
+       origin: (  33.61,  236.25)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 3, span: 0
+
+[ 383] char: 'B'
+       bbox: (  40.16,  223.64,   48.03,  239.62)
+       origin: (  40.16,  236.25)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 3, span: 0
+
+[ 384] char: 'I'
+       bbox: (  48.03,  223.64,   51.95,  239.62)
+       origin: (  48.03,  236.25)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 3, span: 0
+
+[ 385] char: ' '
+       bbox: (  51.95,  223.64,   54.90,  239.62)
+       origin: (  51.95,  236.25)
+       font: Times-Roman, size: 11.9pt
+       block: 2, line: 3, span: 0
+
+[ 386] char: 'N'
+       bbox: (  54.98,  223.64,   63.77,  239.62)
+       origin: (  54.98,  236.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 3, span: 1
+
+[ 387] char: 'e'
+       bbox: (  63.77,  223.64,   69.18,  239.62)
+       origin: (  63.77,  236.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 3, span: 1
+
+[ 388] char: 'w'
+       bbox: (  69.18,  223.64,   77.97,  239.62)
+       origin: (  69.18,  236.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 3, span: 1
+
+[ 389] char: ' '
+       bbox: (  77.97,  223.64,   81.01,  239.62)
+       origin: (  77.97,  236.25)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 3, span: 1
+
+[ 390] char: 'Y'
+       bbox: (  80.37,  223.64,   88.63,  239.62)
+       origin: (  80.37,  236.25)
+       font: Times-Roman, size: 11.7pt
+       block: 2, line: 3, span: 2
+
+[ 391] char: 'o'
+       bbox: (  88.63,  223.64,   94.34,  239.62)
+       origin: (  88.63,  236.25)
+       font: Times-Roman, size: 11.7pt
+       block: 2, line: 3, span: 2
+
+[ 392] char: 'r'
+       bbox: (  94.34,  223.64,   98.15,  239.62)
+       origin: (  94.34,  236.25)
+       font: Times-Roman, size: 11.7pt
+       block: 2, line: 3, span: 2
+
+[ 393] char: 'k'
+       bbox: (  98.15,  223.64,  103.87,  239.62)
+       origin: (  98.15,  236.25)
+       font: Times-Roman, size: 11.7pt
+       block: 2, line: 3, span: 2
+
+[ 394] char: ' '
+       bbox: ( 103.87,  223.64,  106.73,  239.62)
+       origin: ( 103.87,  236.25)
+       font: Times-Roman, size: 11.7pt
+       block: 2, line: 3, span: 2
+
+[ 395] char: 'o'
+       bbox: ( 108.38,  237.14,  114.47,  253.12)
+       origin: ( 108.38,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 396] char: 'f'
+       bbox: ( 114.47,  237.14,  118.52,  253.12)
+       origin: ( 114.47,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 397] char: 'f'
+       bbox: ( 118.52,  237.14,  122.58,  253.12)
+       origin: ( 118.52,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 398] char: 'i'
+       bbox: ( 122.58,  237.14,  125.96,  253.12)
+       origin: ( 122.58,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 399] char: 'c'
+       bbox: ( 125.96,  237.14,  131.37,  253.12)
+       origin: ( 125.96,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 400] char: 'e'
+       bbox: ( 131.37,  237.14,  136.78,  253.12)
+       origin: ( 131.37,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 401] char: ' '
+       bbox: ( 136.78,  237.14,  139.82,  253.12)
+       origin: ( 136.78,  249.75)
+       font: Times-Roman, size: 12.1pt
+       block: 2, line: 4, span: 0
+
+[ 402] char: 'm'
+       bbox: ( 108.59,  250.64,  117.95,  266.62)
+       origin: ( 108.59,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 403] char: 'o'
+       bbox: ( 117.95,  250.64,  123.97,  266.62)
+       origin: ( 117.95,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 404] char: 'b'
+       bbox: ( 123.97,  250.64,  129.99,  266.62)
+       origin: ( 123.97,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 405] char: 'i'
+       bbox: ( 129.99,  250.64,  133.33,  266.62)
+       origin: ( 129.99,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 406] char: 'l'
+       bbox: ( 133.33,  250.64,  136.68,  266.62)
+       origin: ( 133.33,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 407] char: 'e'
+       bbox: ( 136.68,  250.64,  142.02,  266.62)
+       origin: ( 136.68,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 408] char: ' '
+       bbox: ( 142.02,  250.64,  145.03,  266.62)
+       origin: ( 142.02,  263.25)
+       font: Times-Roman, size: 12.0pt
+       block: 2, line: 5, span: 0
+
+[ 409] char: 'E'
+       bbox: ( 520.95,  790.10,  528.96,  806.59)
+       origin: ( 520.95,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 410] char: 'F'
+       bbox: ( 528.96,  790.10,  536.29,  806.59)
+       origin: ( 528.96,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 411] char: 'T'
+       bbox: ( 536.29,  790.10,  543.62,  806.59)
+       origin: ( 536.29,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 412] char: 'A'
+       bbox: ( 543.62,  790.10,  551.62,  806.59)
+       origin: ( 543.62,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 413] char: '0'
+       bbox: ( 551.62,  790.10,  558.30,  806.59)
+       origin: ( 551.62,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 414] char: '0'
+       bbox: ( 558.30,  790.10,  564.97,  806.59)
+       origin: ( 558.30,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 415] char: '0'
+       bbox: ( 564.97,  790.10,  571.64,  806.59)
+       origin: ( 564.97,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 416] char: '3'
+       bbox: ( 571.64,  790.10,  578.31,  806.59)
+       origin: ( 571.64,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 417] char: '7'
+       bbox: ( 578.31,  790.10,  584.98,  806.59)
+       origin: ( 578.31,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 418] char: '3'
+       bbox: ( 584.98,  790.10,  591.66,  806.59)
+       origin: ( 584.98,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 419] char: '6'
+       bbox: ( 591.66,  790.10,  598.33,  806.59)
+       origin: ( 591.66,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
+[ 420] char: '0'
+       bbox: ( 598.33,  790.10,  605.00,  806.59)
+       origin: ( 598.33,  803.00)
+       font: Helvetica, size: 12.0pt
+       block: 4, line: 0, span: 0
+
