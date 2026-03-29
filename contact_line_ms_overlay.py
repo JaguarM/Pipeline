@@ -3,15 +3,17 @@ import fitz
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from typing import List, Tuple, Dict, Any, Optional
+from pathlib import Path
 
 
-PDF_PATH = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
-OUT_CLEAN = "./contact_line_native_clean.png"
-OUT_OVERLAY = "./contact_line_native_ms_red_overlay.png"
+BASE_DIR = Path(__file__).resolve().parent
+PDF_PATH = BASE_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf"
+OUT_CLEAN = BASE_DIR / "contact_line_native_clean.png"
+OUT_OVERLAY = BASE_DIR / "contact_line_native_ms_red_overlay.png"
 TARGET_TEXT = "Contact was made with"
 FONT_PATHS = [
     "/usr/share/fonts/truetype/msttcorefonts/times.ttf",
-    "./times.ttf",
+    str(BASE_DIR / "times.ttf"),
 ]
 
 

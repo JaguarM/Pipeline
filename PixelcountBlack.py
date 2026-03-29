@@ -4,9 +4,11 @@ import numpy as np
 import fitz  # PyMuPDF
 import os
 from typing import List, Tuple, Optional
+from pathlib import Path
 
 # Configuration
-PDF_FILE = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+BASE_DIR = Path(__file__).resolve().parent
+PDF_FILE = BASE_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf"
 
 def detect_black_bars(pdf_path: str) -> None:
     print(f"Processing {pdf_path} using PyMuPDF...")

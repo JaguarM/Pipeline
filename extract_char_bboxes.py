@@ -8,6 +8,10 @@ import fitz
 import cv2
 import numpy as np
 from typing import List, Dict, Any, Optional
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
 
 def extract_char_bboxes(pdf_path: str, page_num: int = 0, output_path: str = "char_bboxes_visualization.png") -> List[Dict[str, Any]]:
     """
@@ -140,7 +144,7 @@ def find_text_chars(char_data: List[Dict[str, Any]], search_text: str) -> List[D
 
 if __name__ == "__main__":
     # Path to the PDF we've been working with
-    pdf_path = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+    pdf_path = str(BASE_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf")
     
     # Extract character bboxes
     char_data = extract_char_bboxes(pdf_path, page_num=0, output_path="char_bboxes_visualization.png")

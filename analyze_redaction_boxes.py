@@ -6,6 +6,10 @@ import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
 from typing import List, Dict, Any
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
 
 # This script assumes you have 'boxes' variable from the notebook
 # Run this in the notebook or load the boxes data
@@ -29,7 +33,7 @@ def analyze_boxes(boxes: List[Dict[str, Any]]) -> None:
     print(f"  Min: {min(heights)}px, Max: {max(heights)}px, Mean: {np.mean(heights):.1f}px")
     
     # Display the visualization
-    viz_img = Image.open('./overlays/redaction_boxes_page_1.png')
+    viz_img = Image.open(BASE_DIR / 'overlays' / 'redaction_boxes_page_1.png')
     plt.figure(figsize=(14, 18))
     plt.imshow(viz_img)
     plt.axis('off')

@@ -8,7 +8,10 @@ This example demonstrates the main features of the redaction_analysis package:
 """
 
 import sys
-sys.path.insert(0, '.')
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT_DIR))
 
 import fitz
 from redaction_analysis import (
@@ -28,7 +31,7 @@ def example_1_extract_boxes():
     print("Example 1: Extract Redaction Boxes")
     print("=" * 70)
     
-    pdf_path = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+    pdf_path = str(ROOT_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf")
     
     try:
         doc = fitz.open(pdf_path)
@@ -64,7 +67,7 @@ def example_2_analyze_boxes():
     print("Example 2: Analyze Box Statistics")
     print("=" * 70)
     
-    pdf_path = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+    pdf_path = str(ROOT_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf")
     
     try:
         doc = fitz.open(pdf_path)
@@ -100,7 +103,7 @@ def example_3_font_info():
     print("Example 3: Extract Font Information")
     print("=" * 70)
     
-    pdf_path = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+    pdf_path = str(ROOT_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf")
     
     try:
         doc = fitz.open(pdf_path)
@@ -131,7 +134,7 @@ def example_4_extract_text_band():
     print("Example 4: Extract Text Band from PDF")
     print("=" * 70)
     
-    pdf_path = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+    pdf_path = str(ROOT_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf")
     
     try:
         doc = fitz.open(pdf_path)
@@ -172,7 +175,7 @@ def example_5_character_overlay():
     print("Example 5: Character Overlay Positioning")
     print("=" * 70)
     
-    pdf_path = "./PDFS/vol00008-official-doj-latest-efta00037366.pdf"
+    pdf_path = str(ROOT_DIR / "PDFS" / "vol00008-official-doj-latest-efta00037366.pdf")
     
     try:
         from PIL import Image, ImageDraw, ImageFont
